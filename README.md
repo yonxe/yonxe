@@ -36,14 +36,8 @@
   <a href="https://github.com/yonxe">
     <img src="./assets/btn-github.svg" height="48" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/yonxe">
-    <img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn">
-  </a>
   <a href="https://instagram.com/yonxe">
     <img src="./assets/btn-instagram.svg" height="48" alt="Instagram">
-  </a>
-  <a href="https://x.com/yonxe">
-    <img src="./assets/btn-twitter.svg" height="48" alt="Twitter / X">
   </a>
   <a href="https://discord.gg/INVITE">
     <img src="./assets/btn-discord.svg" height="48" alt="Discord">
