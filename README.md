@@ -31,24 +31,6 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yonxe&hide_border=true&background=0b0b1e&stroke=4df3ff&ring=ff4d8d&fire=ffd93d&currStreakLabel=4df3ff&sideLabels=ffffff&dates=888888" alt="Streak">
 </p>
 
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yonxe&bg_color=0b0b1e&color=4df3ff&line=ff4d8d&point=ffd93d&area=true&area_color=4df3ff&hide_border=true&custom_title=Contribution+Activity&days=30" alt="Activity Graph">
-</p>
-
-<!-- ==================== SNAKE ==================== -->
-<!-- PASTIKAN WORKFLOW DI TAB ACTIONS UDAH DI-RUN -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/yonxe/yonxe/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/yonxe/yonxe/output/github-snake.svg">
-    <img alt="Snake eating my contributions"
-         src="https://raw.githubusercontent.com/yonxe/yonxe/output/github-snake.svg">
-  </picture>
-</p>
-
 <!-- ==================== SOCIAL BUTTONS ==================== -->
 <p align="center">
   <a href="https://github.com/yonxe">
