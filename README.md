@@ -1,5 +1,5 @@
 <!-- ============================================================
-     PIXEL PROFILE README - YONXE
+     PIXEL PROFILE README - YONXE (FIXED ALL)
      ============================================================ -->
 
 <!-- ==================== HEADER ==================== -->
@@ -25,17 +25,19 @@
 </p>
 
 <!-- ==================== STATS + STREAK ==================== -->
+<!-- Server alternatif (shion.dev) biar ga patah -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yonxe&show_icons=true&hide_border=true&bg_color=0b0b1e&title_color=ffd93d&icon_color=4df3ff&text_color=ffffff&ring_color=ff4d8d" alt="Stats">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=yonxe&show_icons=true&hide_border=true&bg_color=0b0b1e&title_color=ffd93d&icon_color=4df3ff&text_color=ffffff&ring_color=ff4d8d" alt="Stats">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yonxe&hide_border=true&background=0b0b1e&stroke=4df3ff&ring=ff4d8d&fire=ffd93d&currStreakLabel=4df3ff&sideLabels=ffffff&dates=888888" alt="Streak">
 </p>
 
 <!-- ==================== ACTIVITY GRAPH ==================== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yonxe&bg_color=0b0b1e&color=4df3ff&line=ff4d8d&point=ffd93d&area=true&area_color=4df3ff&hide_border=true&custom_title=Contribution+Activity" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yonxe&bg_color=0b0b1e&color=4df3ff&line=ff4d8d&point=ffd93d&area=true&area_color=4df3ff&hide_border=true&custom_title=Contribution+Activity&days=30" alt="Activity Graph">
 </p>
 
 <!-- ==================== SNAKE ==================== -->
+<!-- PASTIKAN WORKFLOW DI TAB ACTIONS UDAH DI-RUN -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -48,7 +50,6 @@
 </p>
 
 <!-- ==================== SOCIAL BUTTONS ==================== -->
-<!-- Note: Ganti INVITE sama ID di bawah kalau mau tombol Discord/Roblox-nya bener -->
 <p align="center">
   <a href="https://github.com/yonxe">
     <img src="./assets/btn-github.svg" height="48" alt="GitHub">
