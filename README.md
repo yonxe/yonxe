@@ -36,19 +36,19 @@
   <a href="https://github.com/yonxe">
     <img src="./assets/btn-github.svg" height="48" alt="GitHub">
   </a>
-  <a href="https://instagram.com/yonxe">
+  <a href="https://instagram.com/iopxyn">
     <img src="./assets/btn-instagram.svg" height="48" alt="Instagram">
   </a>
-  <a href="https://discord.gg/INVITE">
+  <a href="https://discord.com/invite/AeSbXKCc">
     <img src="./assets/btn-discord.svg" height="48" alt="Discord">
   </a>
-  <a href="https://roblox.com/users/ID/profile">
+  <a href="https://www.roblox.com/users/8583216514/profile">
     <img src="./assets/btn-roblox.svg" height="48" alt="Roblox">
   </a>
-  <a href="https://tiktok.com/@yonxe">
+  <a href="https://www.tiktok.com/@ukxeyz">
     <img src="./assets/btn-tiktok.svg" height="48" alt="TikTok">
   </a>
-  <a href="https://youtube.com/@yonxe">
+  <a href="https://www.youtube.com/@xeyongaming">
     <img src="./assets/btn-youtube.svg" height="48" alt="YouTube">
   </a>
 </p>
